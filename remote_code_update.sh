@@ -1,1 +1,0 @@
-ssh abico@203.91.116.148 '/home/abico/abico_shell/./abico_code_update.sh'
