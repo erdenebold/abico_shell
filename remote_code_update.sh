@@ -1,7 +1,6 @@
 #!/usr/bin/expect -f
 spawn ssh abico@203.91.116.148
 expect "Password:*"
-send "serverpass\r"
 expect "$ "
 interact
 
