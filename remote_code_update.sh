@@ -14,3 +14,4 @@ sudo /etc/init.d/odoo-server13 stop
 sudo /etc/init.d/odoo-server13 stop
 sudo /etc/init.d/odoo-server13 stop
 sudo /etc/init.d/odoo-server13 start
+exit
